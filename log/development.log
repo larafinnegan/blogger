@@ -910,3 +910,4 @@ Processing by ArticlesController#index as HTML
   [1m[36mArticle Load (0.6ms)[0m  [1mSELECT "articles".* FROM "articles"[0m
   Rendered articles/index.html.erb within layouts/application (6.1ms)
 Completed 200 OK in 180ms (Views: 177.5ms | ActiveRecord: 0.6ms)
+  [1m[36mArticle Load (3.5ms)[0m  [1mSELECT "articles".* FROM "articles"[0m
